@@ -2,7 +2,7 @@
 # TimeFarm Bot
 TimeFarm Bot . Subscribe my github and also give stars if you like this tool :) 
 
-Register Here : [TimeFarm](https://t.me/TimeFarmCryptoBot?start=qUeeRhT1womtSdi3)
+Register Here : [TimeFarm](https://s.id/26TiG)
 
 ## Installation
 
